@@ -1,0 +1,65 @@
+#page{
+	width: 90%;
+    min-width: 960px;
+	margin: 0 auto;
+	padding: 0 50px;
+    overflow: auto;
+}
+
+h1{
+	width: 50%;
+	margin: 50px 0 0 10%;
+	border-bottom: 1px solid black;
+}
+
+#content{
+	width: 80%;
+	margin: 50px auto;
+    padding: 20px;
+    overflow: auto;
+}
+
+
+#img{
+	float: right;
+	margin: 0 10px 10px 10px;
+}
+
+#img img{
+
+    width: 300px;
+}
+
+h2{
+text-align: center;
+
+}
+
+
+#links{
+	border: 1px solid black;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#links div {
+	padding: 20px 10%;
+	
+}
+
+a, a:visited{
+    color: black;
+}
+
+a:hover{
+	color: grey;
+}
+
+#links div .test {
+	margin-right: 80%;
+}
+
+
+.even{
+	background-color: lightgrey;
+}
